@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-strides2order",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Determine the order of a multidimensional array based on a provided stride array.",
   "license": "Apache-2.0",
   "author": {
