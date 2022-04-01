@@ -1,0 +1,44 @@
+{
+  "name": "@stdlib/ndarray-base-strides2order",
+  "version": "0.0.0",
+  "description": "Determine the order of a multidimensional array based on a provided stride array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/ndarray-base-strides2order.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "base",
+    "ndarray",
+    "strides",
+    "order",
+    "row-major",
+    "column-major",
+    "c-order",
+    "fortran-order",
+    "row",
+    "column",
+    "major",
+    "layout",
+    "memory",
+    "multidimensional",
+    "array",
+    "utilities",
+    "utility",
+    "utils",
+    "util"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
