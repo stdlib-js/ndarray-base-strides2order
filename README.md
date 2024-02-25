@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import strides2order from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-strides2order@deno/mod.js';
+import strides2order from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-strides2order@v0.2.1-deno/mod.js';
 ```
 
 #### strides2order( strides )
@@ -107,7 +107,7 @@ The function returns one of the following values:
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@deno/mod.js';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import strides2order from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-strides2order@deno/mod.js';
+import strides2order from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-strides2order@v0.2.1-deno/mod.js';
 
 var strides;
 var order;
